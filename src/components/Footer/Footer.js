@@ -21,11 +21,11 @@ const Footer = () => {
   return (
     <StyledFooter>
       <Text>
-        This is inspired by the amazing work{' '}
+        This is heavily inspired by the amazing{' '}
         <a href="http://www.therapboard.com/">The Rap Board</a> from{' '}
         <a href="https://lpriel.com/">LP Riel</a>
         <br />
-        Made by <a href="https://www.huguestennier.com">Hugues Tennier</a>.
+        Made by <a href="https://www.huguestennier.com">Hugues Tennier</a>
       </Text>
       <Text>
         <a href="https://github.com/huguestennier/ken-wheeler-board">GitHub</a>
