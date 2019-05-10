@@ -8,6 +8,7 @@ const StyledFooter = styled.footer`
   justify-content: space-between;
   grid-column: 1/-1;
   margin-top: 35px;
+  text-align: left;
 `;
 
 const Text = styled.p`

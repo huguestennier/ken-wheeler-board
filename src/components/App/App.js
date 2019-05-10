@@ -30,12 +30,13 @@ const GlobalStyle = createGlobalStyle`
 
 const Wrapper = styled.section`
   display: grid;
-  grid-template-columns: repeat(auto-fill, 170px);
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   justify-content: center;
   grid-gap: 35px;
   max-width: 1000px;
   width: 80%;
   margin: 0 auto;
+  text-align: center;
 `;
 
 const sounds = [
