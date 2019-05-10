@@ -18,7 +18,7 @@ const Title = styled.h1`
 const Header = () => {
   return (
     <StyledHeader>
-      <Title>Ken Wheeler</Title>
+      <Title>The Ken Wheeler Board</Title>
     </StyledHeader>
   );
 };

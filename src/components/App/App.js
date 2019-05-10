@@ -48,7 +48,8 @@ const sounds = [
   'trash',
   'shitposting',
   'shitty',
-  'fucking'
+  'fucking',
+  'no-idea'
 ];
 
 function App() {

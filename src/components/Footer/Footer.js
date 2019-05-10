@@ -27,7 +27,7 @@ const Footer = () => {
         Made by <a href="https://www.huguestennier.com">Hugues Tennier</a>.
       </Text>
       <Text>
-        <a href="#0">GitHub</a>
+        <a href="https://github.com/huguestennier/ken-wheeler-board">GitHub</a>
       </Text>
     </StyledFooter>
   );
